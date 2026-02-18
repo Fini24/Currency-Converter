@@ -7,6 +7,8 @@ rates = {
     "SEK": 11.2
 }
 
+
+"testung"
 def convert():
     try:
         amount = float(entry.get())
